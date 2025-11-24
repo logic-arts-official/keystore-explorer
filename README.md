@@ -13,6 +13,26 @@ Official website: https://keystore-explorer.org/
 
 ![Screenshot](https://raw.githubusercontent.com/kaikramer/kaikramer.github.io/main/images/win10_mykeystore.png)
 
+## Quick Start for Developers
+
+Get up and running in 5 minutes:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/kaikramer/keystore-explorer.git
+cd keystore-explorer/kse
+
+# 2. Build the project (requires Java 11+)
+./gradlew build
+
+# 3. Run the application
+./gradlew run
+```
+
+**That's it!** KSE should launch with its GUI.
+
+📚 For detailed developer documentation, see [DEVELOPER.md](DEVELOPER.md)
+
 ## Features:
 
  - Create, load, save and convert between various KeyStore types: JKS, JCEKS, PKCS#12, BKS (V1 and V2), UBER and BCFKS
