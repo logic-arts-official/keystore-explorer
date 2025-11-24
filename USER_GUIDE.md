@@ -64,7 +64,7 @@ You can simply:
 ### Installation
 
 #### Windows
-1. Download the installer from [keystore-explorer.org](https://keystore-explorer.org) or [GitHub Releases](https://github.com/kaikramer/keystore-explorer/releases)
+1. Download the installer from [GitHub Releases](https://github.com/logic-arts-official/keystore-explorer/releases)
 2. Run the `.exe` installer
 3. Follow the installation wizard
 4. Launch KSE from the Start Menu or desktop shortcut
@@ -662,8 +662,7 @@ Not sure what type of file you have?
 ### Getting Help
 
 #### Documentation
-- **Website:** https://keystore-explorer.org
-- **GitHub:** https://github.com/kaikramer/keystore-explorer
+- **GitHub:** https://github.com/logic-arts-official/keystore-explorer
 - **This Guide:** Keep for reference!
 
 #### Community Support
@@ -793,7 +792,6 @@ Now that you know the basics:
 ## Additional Resources
 
 ### Learning Resources
-- **KSE Website:** https://keystore-explorer.org
 - **Java Keytool Docs:** Oracle Java documentation
 - **X.509 Certificates:** Wikipedia article on X.509
 - **PKI Basics:** Public Key Infrastructure introduction
@@ -808,9 +806,8 @@ Now that you know the basics:
 
 **Need Help?**
 
-🐛 **Found a bug?** Open an issue: https://github.com/kaikramer/keystore-explorer/issues  
-💬 **Have a question?** Start a discussion: https://github.com/kaikramer/keystore-explorer/discussions  
-📖 **Want more docs?** Check the website: https://keystore-explorer.org
+🐛 **Found a bug?** Open an issue: https://github.com/logic-arts-official/keystore-explorer/issues  
+💬 **Have a question?** Start a discussion: https://github.com/logic-arts-official/keystore-explorer/discussions
 
 ---
 

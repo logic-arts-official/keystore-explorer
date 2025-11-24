@@ -571,7 +571,7 @@ This roadmap is a **living document** and will be reviewed quarterly. Priorities
 - Security concerns
 
 **Feedback Welcome!**  
-Open a discussion: https://github.com/kaikramer/keystore-explorer/discussions
+Open a discussion: https://github.com/logic-arts-official/keystore-explorer/discussions
 
 ---
 

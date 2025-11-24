@@ -24,7 +24,7 @@ Get up and running in 5 minutes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kaikramer/keystore-explorer.git
+git clone https://github.com/logic-arts-official/keystore-explorer.git
 cd keystore-explorer/kse
 
 # 2. Build the project (requires Java 11+)
@@ -65,9 +65,9 @@ That's it! KSE should launch with its GUI.
    - Use Gradle wrapper
 
 2. **Configure Code Style:**
-   - Download formatter: [kse_formatter.xml](https://keystore-explorer.org/kse_formatter.xml)
-   - Settings → Editor → Code Style → Import Scheme
-   - Select the downloaded XML file
+   - Configure your IDE to use 120 character line width and spaces for indentation
+   - Settings → Editor → Code Style → Java
+   - Set line wrapping and indentation preferences
 
 3. **Set JDK:**
    - File → Project Structure → Project SDK
@@ -397,7 +397,10 @@ Recommended target: **70% code coverage**
 - **Imports:** No wildcard imports
 
 #### IntelliJ IDEA Formatter
-Download and import: [kse_formatter.xml](https://keystore-explorer.org/kse_formatter.xml)
+Configure your IntelliJ IDEA formatter with:
+- Line width: 120 characters
+- Indentation: 4 spaces
+- No wildcard imports
 
 #### Example Code Style
 
@@ -719,11 +722,10 @@ echo "org.gradle.daemon=true" >> gradle.properties
 - **README:** [README.md](README.md)
 - **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Technical Analysis:** [TECHNICAL_ANALYSIS.md](TECHNICAL_ANALYSIS.md)
-- **Website:** https://keystore-explorer.org/
 
 ### Communication
-- **GitHub Issues:** https://github.com/kaikramer/keystore-explorer/issues
-- **GitHub Discussions:** https://github.com/kaikramer/keystore-explorer/discussions
+- **GitHub Issues:** https://github.com/logic-arts-official/keystore-explorer/issues
+- **GitHub Discussions:** https://github.com/logic-arts-official/keystore-explorer/discussions
 
 ### Related Tools
 - **Keytool:** Java's CLI keystore tool
