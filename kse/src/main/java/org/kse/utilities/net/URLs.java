@@ -31,21 +31,16 @@ public class URLs {
     }
 
     // general project URLs
-    public static final String KSE_WEB_SITE = "https://keystore-explorer.org";
-    public static final String KSE_USER_MANUAL = "https://keystore-explorer.org/doc/";
-    public static final String GITHUB_PROJECT = "https://github.com/kaikramer/keystore-explorer";
-    public static final String GITHUB_ISSUE_TRACKER = "https://github.com/kaikramer/keystore-explorer/issues";
+    public static final String GITHUB_PROJECT = "https://github.com/logic-arts-official/keystore-explorer";
+    public static final String GITHUB_ISSUE_TRACKER = "https://github.com/logic-arts-official/keystore-explorer/issues";
 
-    // for update checks and download of latest version
-    public static final String LATEST_VERSION_ADDRESS = "https://keystore-explorer.org/version.txt";
-    public static final String DOWNLOADS_WEB_ADDRESS = "https://keystore-explorer.org/downloads.html";
-
-    // URL of page that forwards to unlimited strength policy download site for the respective Java version
-    public static final String JCE_POLICY_DOWNLOAD_URL = "https://keystore-explorer.org/jcePolicyDownload" +
-                                                         ".html?jreversion={0}";
-
-    // list of contributors
-    public static final String KSE_WEBSITE_CONTRIBUTORS = "https://keystore-explorer.org/contribute.html#contributions";
+    // Disabled: These features require a website infrastructure
+    public static final String KSE_WEB_SITE = GITHUB_PROJECT;
+    public static final String KSE_USER_MANUAL = GITHUB_PROJECT + "/blob/master/";
+    public static final String LATEST_VERSION_ADDRESS = "";
+    public static final String DOWNLOADS_WEB_ADDRESS = GITHUB_PROJECT + "/releases";
+    public static final String JCE_POLICY_DOWNLOAD_URL = "https://www.oracle.com/java/technologies/javase-jce-all-downloads.html";
+    public static final String KSE_WEBSITE_CONTRIBUTORS = GITHUB_PROJECT + "#contributors";
 
     // list of TSA servers for sign jar dialog
     public static final String[] TSA_URLS = new String[] { "http://timestamp.digicert.com",

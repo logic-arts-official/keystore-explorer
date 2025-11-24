@@ -868,4 +868,4 @@ By executing this roadmap, KSE will evolve from a **keystore GUI tool** to a **c
 ---
 
 **Questions or Feedback?**  
-Open a discussion on GitHub: https://github.com/kaikramer/keystore-explorer/discussions
+Open a discussion on GitHub: https://github.com/logic-arts-official/keystore-explorer/discussions

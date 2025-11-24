@@ -11,7 +11,7 @@ like to get involved.
 
 One of the best ways you can help us improve KSE is to let us know about any problems you find with it.
 
-The KSE project uses [GitHub issues](https://github.com/kaikramer/keystore-explorer/issues) to report and track bugs.
+The KSE project uses [GitHub issues](https://github.com/logic-arts-official/keystore-explorer/issues) to report and track bugs.
 
 Before you file an issue, search for it to see if anyone has already reported it. If you find your issue, check if you
 can provide additional information, that might be useful to resolve the issue.
@@ -37,13 +37,12 @@ of the code base, it is important to:
 
 * Make sure the code changes are well tested and that they cause no unwanted side effects.
 * Verify that all existing and new tests pass.
-* Check that the code formatting matches the existing code. For IntelliJ IDEA you can
-  use [this formatter configuration](https://keystore-explorer.org/kse_formatter.xml), for other IDEs you should at least
+* Check that the code formatting matches the existing code. For IntelliJ IDEA you can download and import a formatter configuration, or for other IDEs you should at least
   modify the default formatter so that lines are wrapped at 120 characters and all indentations are spaces (no tabs).
 * Make sure no unrelated or unnecessary reformatting changes are included.
 
 If you intend to implement a non-trivial enhancement or a new feature, please make sure there is
-an [issue](https://github.com/kaikramer/keystore-explorer/issues) that corresponds to your contribution &ndash; either
+an [issue](https://github.com/logic-arts-official/keystore-explorer/issues) that corresponds to your contribution &ndash; either
 created by you or by somebody else. Announce in the issue that you intend to work on it to make sure that the work is
 not done twice. This is also a good way to get some guidance on how to best tackle a problem or discuss implementation
 ideas.
@@ -51,9 +50,7 @@ ideas.
 ### Contributing to the Documentation or Website
 
 Good documentation is crucial for any kind of software. You can help improving the documentation:
-* Please report missing, incorrect, or out-dated documentation as an [issue](https://github.com/kaikramer/keystore-explorer/issues).
-* The [KSE website](https://keystore-explorer.org) is in
-  a [GitHub repository](https://github.com/kaikramer/kaikramer.github.io) just like the KSE source code, which means
-  improvements for the website can be contributed in the same way as code contributions. Or you could open
-  an [issue](https://github.com/kaikramer/keystore-explorer/issues) if you think the website could be improved, but
+* Please report missing, incorrect, or out-dated documentation as an [issue](https://github.com/logic-arts-official/keystore-explorer/issues).
+* Improvements for documentation can be contributed in the same way as code contributions. Or you could open
+  an [issue](https://github.com/logic-arts-official/keystore-explorer/issues) if you think the documentation could be improved, but
   don't want to do it yourself.

@@ -385,4 +385,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 **Last Updated:** November 24, 2025  
 **Next Review:** March 2026
 
-**Questions?** Open a discussion on [GitHub Discussions](https://github.com/kaikramer/keystore-explorer/discussions)
+**Questions?** Open a discussion on [GitHub Discussions](https://github.com/logic-arts-official/keystore-explorer/discussions)

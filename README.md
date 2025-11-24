@@ -1,17 +1,9 @@
 # KeyStore Explorer
-[![Build Status](https://img.shields.io/github/actions/workflow/status/kaikramer/keystore-explorer/build_test.yml)](https://github.com/kaikramer/keystore-explorer/actions/workflows/build_test.yml)
-[![Release](https://img.shields.io/github/v/release/kaikramer/keystore-explorer)](https://github.com/kaikramer/keystore-explorer/releases)
-[![Downloads](https://img.shields.io/github/downloads/kaikramer/keystore-explorer/total)](https://tooomm.github.io/github-release-stats/?username=kaikramer&repository=keystore-explorer)
-[![License](https://img.shields.io/github/license/kaikramer/keystore-explorer)](https://github.com/kaikramer/keystore-explorer/blob/master/LICENSE)
-[![Packaging status](https://repology.org/badge/tiny-repos/keystore-explorer.svg)](https://repology.org/project/keystore-explorer/versions)
-[![Translation status](https://hosted.weblate.org/widgets/keystore-explorer/-/svg-badge.svg)](https://hosted.weblate.org/projects/keystore-explorer/)
-
+[![Build Status](https://img.shields.io/github/actions/workflow/status/logic-arts-official/keystore-explorer/build_test.yml)](https://github.com/logic-arts-official/keystore-explorer/actions/workflows/build_test.yml)
+[![Release](https://img.shields.io/github/v/release/logic-arts-official/keystore-explorer)](https://github.com/logic-arts-official/keystore-explorer/releases)
+[![License](https://img.shields.io/github/license/logic-arts-official/keystore-explorer)](https://github.com/logic-arts-official/keystore-explorer/blob/master/LICENSE)
 
 KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
-
-Official website: https://keystore-explorer.org/
-
-![Screenshot](https://raw.githubusercontent.com/kaikramer/kaikramer.github.io/main/images/win10_mykeystore.png)
 
 ## Quick Start for Developers
 
@@ -19,7 +11,7 @@ Get up and running in 5 minutes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kaikramer/keystore-explorer.git
+git clone https://github.com/logic-arts-official/keystore-explorer.git
 cd keystore-explorer/kse
 
 # 2. Build the project (requires Java 11+)
@@ -103,7 +95,7 @@ Or run `org/kse/KSE.java` directly from an IDE.
 
 ## Contributing
 
-We encourage you to contribute to KSE! Please check out the [Contributing to KSE guide](https://github.com/kaikramer/keystore-explorer/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
+We encourage you to contribute to KSE! Please check out the [Contributing to KSE guide](https://github.com/logic-arts-official/keystore-explorer/blob/master/CONTRIBUTING.md) for guidelines about how to proceed.
 
 ## Translating
 
@@ -119,4 +111,4 @@ Use the "Resource Bundle Editor" plugin for JetBrains IDEs to simplify the proce
 
 ## License
 
-[GNU General Public License v3.0](https://github.com/kaikramer/keystore-explorer/blob/master/LICENSE)
+[GNU General Public License v3.0](https://github.com/logic-arts-official/keystore-explorer/blob/master/LICENSE)

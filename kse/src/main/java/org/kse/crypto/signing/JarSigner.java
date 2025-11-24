@@ -680,7 +680,6 @@ public class JarSigner {
             }
 
             // Workaround for display issue in verify function of jarsigner for Java <= 15
-            // see https://github.com/kaikramer/keystore-explorer/issues/293
             DefaultCMSSignatureEncryptionAlgorithmFinder sigEncAlgFinder =
                     new DefaultCMSSignatureEncryptionAlgorithmFinder() {
                 @Override
