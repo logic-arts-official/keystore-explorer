@@ -40,10 +40,10 @@ public class URLs {
     
     // Point to GitHub locations instead of website
     public static final String KSE_WEB_SITE = GITHUB_PROJECT;
-    public static final String KSE_USER_MANUAL = GITHUB_PROJECT + "/tree/master";
+    public static final String KSE_USER_MANUAL = GITHUB_PROJECT;
     public static final String DOWNLOADS_WEB_ADDRESS = GITHUB_PROJECT + "/releases";
     public static final String JCE_POLICY_DOWNLOAD_URL = "https://www.oracle.com/java/technologies/javase-jce-all-downloads.html";
-    public static final String KSE_WEBSITE_CONTRIBUTORS = GITHUB_PROJECT + "#contributors";
+    public static final String KSE_WEBSITE_CONTRIBUTORS = GITHUB_PROJECT + "/graphs/contributors";
 
     // list of TSA servers for sign jar dialog
     public static final String[] TSA_URLS = new String[] { "http://timestamp.digicert.com",
