@@ -35,9 +35,12 @@ public class URLs {
     public static final String GITHUB_ISSUE_TRACKER = "https://github.com/logic-arts-official/keystore-explorer/issues";
 
     // Disabled: These features require a website infrastructure
-    public static final String KSE_WEB_SITE = GITHUB_PROJECT;
-    public static final String KSE_USER_MANUAL = GITHUB_PROJECT + "/blob/master/";
+    // Version check is disabled - empty string will cause MalformedURLException and be handled gracefully
     public static final String LATEST_VERSION_ADDRESS = "";
+    
+    // Point to GitHub locations instead of website
+    public static final String KSE_WEB_SITE = GITHUB_PROJECT;
+    public static final String KSE_USER_MANUAL = GITHUB_PROJECT + "/tree/master";
     public static final String DOWNLOADS_WEB_ADDRESS = GITHUB_PROJECT + "/releases";
     public static final String JCE_POLICY_DOWNLOAD_URL = "https://www.oracle.com/java/technologies/javase-jce-all-downloads.html";
     public static final String KSE_WEBSITE_CONTRIBUTORS = GITHUB_PROJECT + "#contributors";
