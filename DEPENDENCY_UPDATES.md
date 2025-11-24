@@ -46,9 +46,8 @@ All dependencies have been analyzed and updated to their latest stable versions.
 - **Recommendation**: Safe upgrade for projects already on Java 11+
 
 ### JUnit 5.11.4
-- **Stability**: Remained in 5.x series (avoiding 6.x which requires Java 17)
+- **Stability**: Remained in 5.x series (no JUnit 6.x release as of November 2025)
 - **Benefits**: Bug fixes and improvements while maintaining Java 11 compatibility
-- **Note**: JUnit 6.x is available but requires Java 17 minimum
 
 ## Testing Results
 
@@ -77,21 +76,21 @@ All dependencies have been analyzed and updated to their latest stable versions.
 4. **Performance**: Tink 1.19.0 provides performance improvements for cryptographic operations
 5. **UI Polish**: FlatLaf 3.6.2 includes UI improvements and bug fixes
 
-### Why Not JUnit 6.x?
+### Why Not JUnit 6 or Later?
 
-JUnit 6.0.1 is available but requires Java 17 as minimum. Since KeyStore Explorer currently targets Java 11 compatibility, we're staying with JUnit 5.11.4 (latest 5.x series). When the project upgrades to Java 17+, JUnit 6.x can be adopted.
+As of November 2025, JUnit 6 has not been released. KeyStore Explorer currently targets Java 11 compatibility, so we are staying with JUnit 5.11.4 (latest 5.x series). When a new major JUnit version is released and the project upgrades to Java 17+, we will evaluate migration.
 
 ## Future Dependency Considerations
 
 ### Planned for Next Major Release
-- Consider upgrading to Java 21 LTS (enables JUnit 6.x and other modern features)
+- Consider upgrading to Java 21 LTS (enables adoption of future JUnit major releases and other modern features)
 - Evaluate JavaFX for potential UI modernization
 - Monitor BouncyCastle for post-quantum cryptography features
 
 ### Dependencies to Watch
 - **FlatLaf**: Active development, frequent updates
 - **BouncyCastle**: Critical for security, monitor for updates
-- **JUnit**: Track 6.x series for future Java 17+ migration
+- **JUnit**: Track future major JUnit releases for Java 17+ migration
 - **Tink**: Google's crypto library, monitor for new features
 
 ## Maven Central Links
