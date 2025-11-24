@@ -780,5 +780,5 @@ For questions, open a discussion on GitHub or check the [Contributing Guide](CON
 
 ---
 
-**Last Updated:** November 24, 2025  
+**Last Updated:** June 10, 2024  
 **Version:** 1.0

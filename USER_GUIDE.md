@@ -1,7 +1,7 @@
 # KeyStore Explorer - End-User Guide
 
 **Version:** 5.6.0  
-**Last Updated:** November 24, 2025
+**Last Updated:** June 10, 2024
 
 ---
 
@@ -819,5 +819,5 @@ Now that you know the basics:
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** November 24, 2025  
+**Last Updated:** June 10, 2024  
 **For KSE Version:** 5.6.0

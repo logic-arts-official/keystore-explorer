@@ -1,7 +1,7 @@
 # KeyStore Explorer - Product Owner Guide
 
 **Document Version:** 1.0  
-**Last Updated:** November 24, 2025  
+**Last Updated:** June 10, 2024  
 **Product Version:** 5.6.0
 
 ---
@@ -863,7 +863,7 @@ By executing this roadmap, KSE will evolve from a **keystore GUI tool** to a **c
 
 **Document Owner:** Product Management  
 **Review Cycle:** Quarterly  
-**Next Review:** February 2026
+**Next Review:** February 2025
 
 ---
 

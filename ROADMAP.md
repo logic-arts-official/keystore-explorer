@@ -1,7 +1,7 @@
 # KeyStore Explorer - 2-Year Product Roadmap (2025-2027)
 
 **Version:** 1.0  
-**Last Updated:** November 24, 2025  
+**Last Updated:** June 10, 2024  
 **Current Release:** 5.6.0
 
 ---
@@ -592,6 +592,6 @@ These may be revisited in future planning cycles based on demand and resources.
 
 **Roadmap Owner:** Product Management  
 **Review Cycle:** Quarterly  
-**Next Review:** February 2026  
+**Next Review:** February 2025  
 **Version:** 1.0  
-**Last Updated:** November 24, 2025
+**Last Updated:** June 10, 2024
